@@ -1,0 +1,12 @@
+class Scraper
+
+
+
+
+
+
+
+
+
+
+end
